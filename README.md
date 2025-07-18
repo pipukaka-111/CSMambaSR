@@ -32,7 +32,7 @@ python basicsr/train.py -opt options/train/mambairca_UCMerced_train_bicubic_x2.y
 
 ## <a name="testing"></a> Testing
 
-### Test on SR
+### Test
 
 ```
 python basicsr/test.py -opt options/test/mambair_UCMerced_test_bicubic_x2.yml

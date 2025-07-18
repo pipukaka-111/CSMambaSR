@@ -35,7 +35,7 @@ python basicsr/train.py -opt options/train/mambairca_UCMerced_train_bicubic_x2.y
 ### Test on SR
 
 ```
-basicsr/test.py -opt options/test/mambair_UCMerced_test_bicubic_x2.yml
+python basicsr/test.py -opt options/test/mambair_UCMerced_test_bicubic_x2.yml
 ```
 
 ## Acknowledgement
